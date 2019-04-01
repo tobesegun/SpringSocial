@@ -2,7 +2,7 @@
 A social media project
  
  ## step 1
- create a file in client and name it keys_dev.js and paste this code and save it
+ create a file in config folder and name it keys_dev.js and paste this code and save it
 * module.exports={
   *  mongoURI:
    * 'mongodb+srv://tobe:tobe99@cluster0-7hsdq.mongodb.net/test?retryWrites=true',
